@@ -1,2 +1,2 @@
 # Password-Generator
-This is project in password generator with React and Tialwind CSS
+This project is password generator with React and Tialwind CSS
